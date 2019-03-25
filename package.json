@@ -1,0 +1,13 @@
+{
+  "name": "shadow-styler",
+  "version": "0.1.0",
+  "description": "A helper for injecting styles into shadow roots",
+  "repository": "https://github.com/Artur-/shadow-styler.git",
+  "main": "shadow-styler.js",
+  "module": "shadow-styler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
